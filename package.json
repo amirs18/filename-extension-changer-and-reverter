@@ -1,0 +1,16 @@
+{
+  "name": "mongo-express-docker-26e7ea94e4d222de7d52531caee52149ac093c26",
+  "version": "1.0.0",
+  "description": "mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.1.0",
+    "rename-extension": "^4.0.0"
+  }
+}
